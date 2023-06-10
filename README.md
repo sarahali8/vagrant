@@ -1,0 +1,2 @@
+# vagrant
+zero_day
